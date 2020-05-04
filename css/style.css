@@ -1,0 +1,73 @@
+/*
+	      Master Stylesheet
+===================================	
+	Template Name : Minimo
+	Author: Maqsudul Karim
+	Author Url: http://maqsudulkarim.com
+	Description: PSD to HTML Practise
+	Version: 1.0.0
+	Tag: Blog
+
+*/	
+
+/*
+         Table of Contents
+===================================
+		1. Typography
+		2.
+		3.
+		4.
+		5.
+		6.
+
+*/
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+header, #hero, #body, #nit, .footer{
+	background-color: #ffaec9;
+	padding: 50px 0;
+	margin-bottom: 30px;
+}
+.content{
+	background-color: #99d9ea;
+	border: 5px solid #22b14c;
+	padding: 20px;
+	margin: 10px 0;
+}
+.nested-pad{
+	padding: 25px;
+	margin: 0;
+	background-color: red;
+}
+.nest, .nested-pad{
+	margin: 10px 0;
+}
+.nest{
+	border: 5px solid #22b14c;
+}
+.nested-content{
+	background-color: #99d9ea;
+	border: 5px solid yellow;
+	padding: 20px;
+}
+.body-content{
+	padding: 60px 20px;
+}
+.body-pad{
+	padding: 65px 20px;
+	background-color: orange;
+}
+.kit{
+	margin: 0;
+	padding: 60px 20px;
+	border: 5px solid yellow;
+}
+.nit{
+	padding-left: 0;
+	padding-right: 0;
+}
